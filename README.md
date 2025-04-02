@@ -5,7 +5,7 @@ Boiler Plate :- "StartC"
 
        
 
-    <h1>PAT QUESTIONS:-</h1>
+    PAT QUESTIONS:-
         
         1. Q10 at line 633
         2. Q8  at line 671
@@ -20,7 +20,7 @@ Boiler Plate :- "StartC"
 
 
 
-               <h1>VScode shortcuts:-</h1>            
+    VScode shortcuts:-          
         
         1. shift + opt + up/down -- copy paste same line above or below
         2. select all lines to be commented then press cmnd + /
@@ -35,7 +35,7 @@ Boiler Plate :- "StartC"
         
 
 
-               <h1>DOUBTS -:</h1>              
+    DOUBTS -:             
          
         1. line 420.
         3. float avg in def function coming 2.0000 instead of 2.50000 (line 507)
@@ -46,8 +46,3 @@ Boiler Plate :- "StartC"
         8. HTML PARSER
         9. Call by reference & Call by value
         
-        
-</pre>
-
-</body>
-</html>
