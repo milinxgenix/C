@@ -126,7 +126,7 @@ int main()
 #include<string.h>
 #include<math.h>
 #include<stdlib.h>
-void avg(int arr[], itn)
+void avg(int arr[], int n)
 {
     int sum=0;
     for(int i=0; i<n; i++)

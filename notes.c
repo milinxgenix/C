@@ -1069,7 +1069,7 @@ int main(){
 */
 
 
-/*                          METH 2 :- using remainder concept
+/*                          METH 2 :- using remainder concept(Reversing digits of a number)
 #include<stdio.h>
 int main()
 {
@@ -1629,7 +1629,9 @@ int main()
 
     //free(ptr);  -- if free(ptr) is used here then reallocation won't be possible as previously allocated memory to ptr is cleared 
 
-//INCREASING SIZE OF ARRAY BY REALLOC
+
+
+                                    //INCREASING SIZE OF ARRAY BY REALLOC
     printf("enter the size of new array\n");
     scanf("%d",&n);
     ptr = (int*) realloc(ptr, n * sizeof(int));
@@ -1817,7 +1819,7 @@ int main()
 #include<string.h>
 #include<math.h>
 #include<stdlib.h>
-void avg(int arr[], itn)
+void avg(int arr[], int n)
 {
     int sum=0;
     for(int i=0; i<n; i++)

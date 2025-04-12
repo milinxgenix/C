@@ -94,6 +94,8 @@ int main()
 
     //free(ptr);  -- if free(ptr) is used here then reallocation won't be possible as previously allocated memory to ptr is cleared 
 
+                                               
+                                               
                                                //increasing size of array by REALLOC
     printf("enter the size of new array\n");
     scanf("%d",&n);
