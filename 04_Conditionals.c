@@ -15,11 +15,11 @@ int main()
     }
     else if(age >= 18 && age<=25)
     {
-        printf("lund chala lo mera");
+        printf("u don't have bike");
     }
     else if(age>70)
     {
-        printf("gand k andhe dikhayi dega tujhe");
+        printf("g*nd k andhe dikhayi dega tujhe");
     }
     else
     {
