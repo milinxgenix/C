@@ -25,11 +25,10 @@ VScode shortcuts:-
 
 DOUBTS -:             
      
-    1. line 420.
-    3. float avg in def function coming 2.0000 instead of 2.50000 (line 507)
-    4. how to print array by taking elements from users like we use to do for list in python.
-    5. short hand if else for character or string to print statements.
-    6. pointer to a pointer (assign a pointer to locate another pointer)
-    7. passing array as a funct
-    8. HTML PARSER
-    9. Call by reference & Call by value
+    1. float avg in def function coming 2.0000 instead of 2.50000 (line 507)
+    2. how to print array by taking elements from users like we use to do for list in python.
+    3. short hand if else for character or string to print statements.
+    4. pointer to a pointer (assign a pointer to locate another pointer)
+    5. passing array as a funct
+    6. HTML PARSER
+    7. Call by reference & Call by value
