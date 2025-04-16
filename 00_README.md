@@ -38,7 +38,7 @@ Boiler Plate :- "StartC"
         13. cmd + E -- find keywords and from there u can change replace all similar words at once
         14. cmd + option + B -- put terminal on right side 
         15. cmd + B -- put terminal on left side 
-        
+        16. shift + option + A -- Multiline comment on selected text
 
 
     DOUBTS -:             
