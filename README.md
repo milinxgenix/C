@@ -1,17 +1,7 @@
-PAT QUESTIONS:-
-    
-    1. Q10 at line 633
-    2. Q8  at line 671
-    3. Q4  at line 738
-    4. Q5 at line 759
-    5. Q9  at line 795
-    6. Q14 at line 826
-    7. Q12 at line 875
-    8. Q7  at line 919
-    9. Q13 at line 947
+# C++' NOTES BY KUMAR MILIND
 
 
-
+Boiler Plate :- "StartC++"
 
 VScode shortcuts:-          
     
