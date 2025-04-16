@@ -1,7 +1,7 @@
 # C NOTES BY KUMAR MILIND
 
 
-Boiler Plate :- "StartC++"
+Boiler Plate :- "StartC"
 
 VScode shortcuts:-          
     
